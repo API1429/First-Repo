@@ -36,5 +36,7 @@ System.out.println("Pikachu.................");
 System.out.println("Meokoooo.................");
 System.out.println("Naruto.................");
 
+System.out.println("Nija Hathori.................");
+
 }
 }

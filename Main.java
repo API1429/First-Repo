@@ -24,5 +24,9 @@ System.out.println("Mango.......");
 System.out.println("Litchi.......");
 System.out.println("BlueBerry.......");
 
+
+System.out.println("Making changes for jenkins.................");
+
+System.out.println("Making changes for jenkins for cloneee.................");
 }
 }
